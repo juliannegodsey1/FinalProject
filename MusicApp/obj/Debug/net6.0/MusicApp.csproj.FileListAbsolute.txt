@@ -1,0 +1,8 @@
+C:\Users\julia\Desktop\repos2\MusicApp\MusicApp\obj\Debug\net6.0\MusicApp.csproj.AssemblyReference.cache
+C:\Users\julia\Desktop\repos2\MusicApp\MusicApp\obj\Debug\net6.0\MusicApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julia\Desktop\repos2\MusicApp\MusicApp\obj\Debug\net6.0\MusicApp.AssemblyInfoInputs.cache
+C:\Users\julia\Desktop\repos2\MusicApp\MusicApp\obj\Debug\net6.0\MusicApp.AssemblyInfo.cs
+C:\Users\julia\Desktop\repos2\MusicApp\MusicApp\obj\Debug\net6.0\MusicApp.csproj.CoreCompileInputs.cache
+C:\Users\julia\Desktop\repos2\MusicApp\MusicApp\obj\Debug\net6.0\MusicApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\julia\Desktop\repos2\MusicApp\MusicApp\obj\Debug\net6.0\MusicApp.RazorAssemblyInfo.cache
+C:\Users\julia\Desktop\repos2\MusicApp\MusicApp\obj\Debug\net6.0\MusicApp.RazorAssemblyInfo.cs
